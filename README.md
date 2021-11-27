@@ -3,7 +3,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kas-elvirov&theme=dark&layout=compact&count_private=true"/>
 </div>
 <hr/>
-<div align="left">
+<!-- <div align="left">
     Primary skills:
 <ul>
   <li>turning on the computer</li>
@@ -11,3 +11,4 @@
   <li>boosted procrastination to 256lvl</li>
 </ul>
 <div/>
+-->
