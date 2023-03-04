@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm Kas Elvirov</h1>
-<h3 align="center">Like to write a code, study technologies. Don't like PROYEBSHIKOV and MUDAKOV</h3>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kas-elvirov" alt="kas-elvirov" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
