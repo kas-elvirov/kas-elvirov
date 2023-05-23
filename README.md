@@ -8,11 +8,15 @@
   <a href="https://t.me/frontend_soldier_en" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=Weekly FE digest (eng)&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
+  
+  <a href="https://t.me/frontend_soldier" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=Еженедельник для FE разрабов (рус)&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  </a>
 </div>
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">привет 👋</h1>
 
 ###
 
@@ -39,5 +43,12 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kas-elvirov&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=kas-elvirov&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 ###
