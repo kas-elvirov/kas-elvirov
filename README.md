@@ -1,19 +1,3 @@
-<div align="center">
-  <img height="150" src="https://sun1-30.userapi.com/s/v1/ig2/yrxdI4qBRkDZnKA8ZbljK5LZwb5OQXKuGFBI3EkVJ7ErA-0AAjolP172KGJNknvZa-sCoS68W_WXaGbSzYjrLnfq.jpg?size=200x200&quality=95&crop=0,0,767,767&ava=1"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://t.me/frontend_soldier_en" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=Weekly FE digest (eng)&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
-  </a>
-  
-  <a href="https://t.me/frontend_soldier" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=Еженедельник для FE разрабов (рус)&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
-  </a>
-</div>
-
 ###
 
 <h1 align="center">привет 👋</h1>
